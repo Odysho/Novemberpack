@@ -34,11 +34,6 @@
     "TG_BOT_TOKEN": {
       "description": "ضع هنا توكن البوت الخاص بك",
       "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
-        },
-    "COMMAND_HAND_LER": {
-      "description": "اتركها كما هيه",
-      "value": "",
-      "required": false
     },
     "ENV": {
       "description": "اتركه كما هوه",

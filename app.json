@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/telethontesthelp/telethon-Ar-pack/",
+  "repository": "https://github.com/Odysho/Telethon-Arab-helper/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
-      "value": ""
+      "value": "6223384"
     },
     "API_HASH": {
       "description": "اكتب هنا ألايبي هاش",
-      "value": ""
+      "value": "8b2a99ed20dec0ca4587201a57598ca6"
     },
     "STRING_SESSION": {
       "description": "ضع هنا كود تيرمكس",
@@ -29,11 +29,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "ضع هنا معرف البوت بدون @",
-      "value": ""
+      "value": "thwegfbot"
     },
     "TG_BOT_TOKEN": {
       "description": "ضع هنا توكن البوت الخاص بك",
-      "value": ""
+      "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
     },
     "ENV": {
       "description": "اتركه كما هوه",
@@ -57,7 +57,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس - لاتوصله",
-      "value": "Telethon-Ar",
+      "value": "ODY",
       "required": false
     }
   },

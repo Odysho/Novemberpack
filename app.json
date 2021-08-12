@@ -1,5 +1,5 @@
 {
-  "name": "تليثون العرب",
+  "name": "November",
   "description": "اهلا بك في تنصيب تليثون العرب لمتابعه قناتنا : https://t.me/M4_STORY ",
   "logo": "https://telegra.ph/file/25917eb62d664deffa22b.jpg",
   "keywords": [
@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "اكتب هنا الايبي ايدي",
-      "value": "6223384"
+      "value": ""
     },
     "API_HASH": {
       "description": "اكتب هنا ألايبي هاش",
-      "value": "8b2a99ed20dec0ca4587201a57598ca6"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "ضع هنا كود تيرمكس",
@@ -29,11 +29,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "ضع هنا معرف البوت بدون @",
-      "value": "thwegfbot"
+      "value": ""
     },
     "TG_BOT_TOKEN": {
       "description": "ضع هنا توكن البوت الخاص بك",
-      "value": "1880329999:AAEhDApYaRMfHh3kmhOOTMH5u-gg9ZI310o"
+      "value": ""
     },
     "ENV": {
       "description": "اتركه كما هوه",
@@ -42,7 +42,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "ضع كود هيروكوان لم تعرفها يوجد هنا شرحها https://t.me/L3LL3",
-      "value": "6a70410a-97f4-4d44-8392-3c86b0708c03",
+      "value": "",
       "required": false
     },
     "HEROKU_APP_NAME": {

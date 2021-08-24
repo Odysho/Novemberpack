@@ -1,7 +1,7 @@
 FROM Odysho/Telethon-Arab:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Odysho/Telethon-Arab.git /root/userbot
+RUN git clone https://github.com/Odysho/November-USERBOT.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
